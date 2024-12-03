@@ -1,0 +1,52 @@
+.bg{
+    margin: 80px auto;
+  
+    position: relative;
+    display:flex;
+    justify-content: center;
+    
+}
+.flex1{
+    padding: 80px 100px;
+    border: 2px solid rgb(7, 136, 87);
+    label{
+        font-size: 30px;
+    }
+    input{
+        margin-left: 10px;
+        height: 20px;
+        width: 168px;
+    }
+    select{
+        margin-left: 95px;
+        /* border: 1px solid ; */
+        width:180px;
+        font-size: 22px;
+    }
+    #To{
+        margin-left: 128px;
+    }
+}
+.flex2{
+    background-color: rgb(7, 136, 87);
+    width: 400px;
+    padding: 20px;
+    padding-top:60px;
+    color: aliceblue;
+    font-size: 80px;
+}
+button{
+    background-color:  rgb(7, 136, 87);
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 140px;
+    padding: 5px;
+    font-size: 30px;
+    color: aliceblue;
+    align-items: center;
+    margin: 30px;
+    margin-left: 120px;
+}
+h1{
+    font-size: 40px;
+}
